@@ -1,0 +1,22 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+
+header{
+  width: 100%;
+  background-color: #C2B59B;
+  height: 740px;
+}
+
+.container{
+    padding-top: 50px;
+}
+
+.illustration{
+  width: 100%;
+  height: 610px;
+  background: no-repeat url("../img/illustration.svg");
+  background-size: 100% 100%;
+}
